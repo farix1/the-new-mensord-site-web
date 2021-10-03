@@ -1,0 +1,391 @@
+body {
+    list-style-type: none ;
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%) ;
+    height: 2000px ;
+    
+}
+
+
+::-webkit-scrollbar {
+    width: 12px ;
+}
+
+::-webkit-scrollbar-thumb {
+    color: blue ;
+    background: linear-gradient( rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%) ;
+    border-radius: 12px ;
+}
+
+
+
+/*::-webkit-scrollbar {
+    width: 12px ;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(transparent, #7700ff) ;
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(transparent, #1100ff)
+}
+*/
+
+nav.Menu-nav ul li.page {
+    list-style-type: none ;
+    display: inline-block ;
+    margin-left: 15px ;
+    background-color: transparent ;
+    border-radius: 20px;
+}
+
+nav.Menu-nav ul li.page a {
+    color: rgba(63,94,251,1)  ;
+    text-decoration: none ;
+    font-family: Arial, Helvetica, sans-serif ;
+    padding: 5px ;
+    font-size: 20px ;
+    font-weight: 950 ;
+    list-style-type: none ;
+    border-color: rgb(43, 73, 224) ;
+    border-style: inset ;
+    border-radius: 20px ;
+
+}
+
+nav.Menu-nav ul {
+    list-style-type: none;
+    margin-inline-start: 34% ;
+    
+
+}
+
+nav.Menu-nav ul li.page:hover a {
+    list-style-type: none;
+    color: violet ;
+    background-color: transparent;
+    transition: 1s all;
+    border-color: rgb(255, 0, 149) ;
+    border-style: inset ;
+    border-radius: 20px ;
+    border-spacing: 12px ;
+    
+}
+
+/*------------------------------------------*/
+
+
+nav.Menu-navv ul li.pagee {
+    list-style-type: none ;
+    display: inline-block ;
+    margin-left: 15px ;
+    background-color: rgb(0, 132, 255) ;
+    border-radius: 20px;
+}
+
+nav.Menu-navv ul li.pagee a {
+    color: white ;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px;
+    font-size: 20px;
+    font-weight: 950 ;
+    list-style-type: none;
+    border-radius: 20px;
+
+}
+
+nav.Menu-navv ul {
+    
+    list-style-type: none;
+    margin-inline-start: 65%;
+    
+
+}
+
+nav.Menu-navv ul li.pagee:hover a {
+    list-style-type: none;
+    color: white ;
+    background-color: rgb(1, 159, 258) ;
+    transition: 1s all;
+    border-radius: 20px;
+    
+}
+
+
+h1.ok {
+    margin-left: 46%;
+    margin-top: 0px ;
+    font-size: 45px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+    color: rgb(33, 47, 68) ;
+    
+}
+
+h1.ssd {
+    list-style: none ;
+    margin-left: 46%;
+    margin-top: 100px ;
+    font-size: 45px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+    color: rgb(33, 47, 68) ;
+    margin-top: 1px ;
+    
+    
+}
+
+
+h1.ssdr {
+    margin-left: 41% ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color:white ;
+    font-size: 40px ;
+    
+    
+}
+
+nav.Menu-nav ul li.f {
+    margin-left: 100px ;
+}
+
+
+p.Vpngratuit {
+    color: #fff ;
+    font-size: 20px ;
+}
+
+p.Vpngratuit a {
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(212, 0, 255);
+    background-color: black;
+    padding: 12px;
+    border-radius: 320px;
+    border-color: blue ;
+    
+
+}
+
+p.Vpngratuit:hover a {
+    list-style-type: none;
+    color: rgb(4, 0, 255) ;
+    background-color: transparent ;
+    transition: 1.5s all ;
+    
+
+}
+
+
+
+h1.booter {
+    margin-left: 43%;
+    margin-top: 0px ;
+    font-size: 45px ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+    color: blue ;
+    background-color: transparent;
+
+}
+
+p.ccbooter {
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+p.freebooter1:hover a {
+    list-style-type: none;
+    color: rgb(0, 183, 255) ;
+    background-color: rgb(0, 253, 232) ;
+    transition: 1s all;
+}
+
+
+p.freebooter1 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(0, 253, 232) ;
+    margin-left: 4% ;
+    font-size: 23px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding: 13px;
+    background-color: rgb(0, 51, 285) ;
+    border-radius: 220px;
+}
+
+/*------------------------------------------------------*/
+nav.navt ul li.ping  {
+    margin-left: 40%;
+    color: blue;
+}
+
+nav.ping ul li.ping2 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(184, 22, 184) ;
+    margin-left: 10% ;
+    font-size: 25px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 12px;
+    background-color: white ;
+    border-radius: 20px;
+    font-weight: 800;
+}
+
+nav.ping ul li.ping2:hover a {
+    list-style-type: none;
+    color: rgb(184, 22, 184) ;
+    background-color: transparent ;
+    transition: 1s all ;
+    
+}
+
+nav.ping ul li.ping2 {
+    list-style-type: none;
+}
+
+
+
+
+nav.sudo ul li.sudo2 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #b700ff ;
+    background-color: transparent ;
+    padding: 12px;
+    border-radius: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-weight: 800;
+    border-color: rgb(183, 0, 255) ;
+    border-style: inset ;
+    border-radius: 20px ;
+    border-width: 5px ;
+
+    
+    
+    
+}
+
+nav.sudo ul li.sudo2 {
+    list-style: none;
+    font-size: 25px ;
+    margin-left: 9%;
+    display: table-cell;
+    border-style: inherit ;
+    border-color:rgb(132, 0, 255) ;
+    padding-inline: 12px;
+    padding-inline-start: 19px;
+    
+}
+
+nav.sudo ul li.sudo2:hover a {
+    list-style-type: none;
+    color: rgb(51, 48, 228); ;
+    background-color: transparent;
+    transition: 1.5s all ;
+    border-color: rgba(63,94,251,1) ;
+    border-style: inset ;
+    border-radius: 20px ;
+    border-width: 5px ;
+    
+
+    
+
+}
+
+
+nav.Menu ul li.vpn1 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(33, 47, 68) ;
+    margin-left: 10% ;
+    font-size: 25px ;
+    padding: 12px;
+    background-color: rgb(184, 45, 45) ;
+}
+
+nav.Menu ul li.vpn1 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #0011ff ;
+    margin-left: 10% ;
+    font-size: 25px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    padding: 12px;
+    background-color: white ;
+    border-radius: 20px;
+    font-weight: 800;
+    
+}
+
+nav.Menu ul li.vpn1:hover a{
+    list-style-type: none;
+    color: #6f00ff ;
+    background-color: transparent ;
+    transition: 1s all;
+
+} 
+
+
+nav.Menu ul li.vpn1 {
+    list-style: none ;
+}
+
+
+/*------------------------------------------------------*/
+
+
+
+h1.ping2 {
+    margin-left: 43%;
+    color: white ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p.text-ping {
+    color: blue ;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px ; 
+}
+
+
+img.pingg {
+    width: 1100px;
+    border-radius: 30px;
+    border-color: rgb(25, 0, 255);
+    border-width: 40px;
+    border-style: double;
+
+}
+
+h1.host a {
+    color: blue ;
+    text-decoration: none;
+}
+
+span.he {
+    color: rgb(0, 255, 128) ;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    text-shadow: black ;
+    font-style: oblique ;
+    -webkit-animation-: step-start ;
+    border-block-end-color: tomato ;
+    contain: style ;
+    mask-type: alpha ;
+    user-select:text ;
+}
+
+
+h3.support-email {
+    color: white ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-variant: small-caps  ;    
+}
+
+h3.support-email span {
+    font-variant: normal;
+    color: rgb(0, 4, 255);
+}
